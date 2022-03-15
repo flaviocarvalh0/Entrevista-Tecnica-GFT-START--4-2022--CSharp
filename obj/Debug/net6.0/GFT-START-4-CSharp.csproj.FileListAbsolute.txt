@@ -1,0 +1,15 @@
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\bin\Debug\net6.0\GFT-START-4-CSharp.exe
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\bin\Debug\net6.0\GFT-START-4-CSharp.deps.json
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\bin\Debug\net6.0\GFT-START-4-CSharp.runtimeconfig.json
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\bin\Debug\net6.0\GFT-START-4-CSharp.dll
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\bin\Debug\net6.0\ref\GFT-START-4-CSharp.dll
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\bin\Debug\net6.0\GFT-START-4-CSharp.pdb
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.csproj.AssemblyReference.cache
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.AssemblyInfoInputs.cache
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.AssemblyInfo.cs
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.dll
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\ref\GFT-START-4-CSharp.dll
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.pdb
+C:\Users\flavi\Desktop\Entrevista Tecnica GFT START #4 2022  CSharp\obj\Debug\net6.0\GFT-START-4-CSharp.genruntimeconfig.cache
