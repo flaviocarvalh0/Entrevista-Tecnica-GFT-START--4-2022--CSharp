@@ -97,12 +97,12 @@ namespace Principal
             pessoa.Peso = double.Parse(Console.ReadLine());
 
             double valor = pessoa.CalculaIMC();
-            Console.Write(valor.ToString("F"));
+            Console.Write(valor.ToString("F") + "kg/m2");
         }
         public static void Main()
         {
 
-            Questao2();
+            Questao4();
         }
     }
 }
