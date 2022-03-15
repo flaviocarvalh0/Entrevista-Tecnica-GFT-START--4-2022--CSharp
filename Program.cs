@@ -37,30 +37,31 @@ namespace Principal
 
         static void Questao2()
         {
-            Console.Write("Entre com um valor entre 350 e 8750: ");
+            Console.WriteLine("Entre com um valor entre 350 e 8750");
             int entrada = Int32.Parse(Console.ReadLine());
-            if (entrada.ToString().Length <= 2)
-            {
-                Console.WriteLine("A entrada deve conter 3 dígitos, tente novamente!");
-            }
-            else if (entrada.ToString().Length > 4)
-            {
-                Console.WriteLine("A entrada deve conter ao máximo 4 dígitos, tente novamente!");
-            }
 
-            int qtdImp = 0;
-            for (int i = 0; i < entrada.ToString().Length; i++)
-            {
-                
-                
 
-                if (Int32.Parse(entrada.ToString().Substring(i, 1)) % 2 != 0)
+            while (entrada.ToString().Length < 3 || entrada.ToString().Length > 4)
+            {
+                if (entrada < 350 || entrada > 8750)
                 {
-                    qtdImp = qtdImp + 1;
+                    entrada = Int32.Parse(Console.ReadLine());
                 }
-            }
+                Console.WriteLine("A entrada de possuir no mínimo 3 caracteres e no máximo 4, tente novamente!");
+                entrada = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine("Quantidade de impares é = " + qtdImp);
+                int qtdImp = 0;
+
+                for (int i = 0; i < entrada.ToString().Length; i++)
+                {
+                    if (Int32.Parse(entrada.ToString().Substring(i, 1)) % 2 != 0)
+                    {
+                        qtdImp = qtdImp + 1;
+                    }
+                }
+
+                Console.WriteLine("Quantidade de impares é = " + qtdImp);
+            }
         }
         static void Questao3()
         {
